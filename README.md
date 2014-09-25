@@ -1,4 +1,5 @@
-macro-counter
+Macro-counter
 =============
 
-Gotta get dem gainzzz
+
+For the busy man, a calculator that records your macro nutrients along with caloric requirements.
